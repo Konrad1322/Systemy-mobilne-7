@@ -1,0 +1,12 @@
+
+f
+java:S1301W"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+t
+java:S1450)"^Remove the "getAddresButton" field and declare it as a local variable in the relevant methods.(Ž®Ê›
+{
+java:S1450#"`Remove the "getLocationButton" field and declare it as a local variable in the relevant methods.(Š†ïæøÿÿÿÿ
+e
+java:S1874U"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ó»×¶þÿÿÿÿ
+<	java:S131W""Add a default case to this switch.(×ö³–úÿÿÿÿ
+R
+java:S1874g"7Remove this use of "getFromLocation"; it is deprecated.(¼˜Èøÿÿÿÿ
